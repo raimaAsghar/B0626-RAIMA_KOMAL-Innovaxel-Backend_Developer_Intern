@@ -1,4 +1,4 @@
-# Event Registration System — Backend
+# Event Registration System
 
 A RESTful API for managing events and user registrations, built with Node.js, Express, and MongoDB.
 
@@ -92,7 +92,7 @@ Server starts on `http://localhost:3000`
 
 ## Frontend
 
-A basic frontend is included in the `Frontend/` folder to interact with the API visually. It allows users to create events, view event listings, and register for or cancel registrations — serving as a functional UI to demonstrate all backend endpoints in action.
+A minimal React frontend is included in the `Frontend/` folder to interact with the API visually. It allows users to create events, view event listings, and register for or cancel registrations — serving as a functional UI to demonstrate all backend endpoints in action.
 
 ---
 
